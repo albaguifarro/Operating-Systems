@@ -1,0 +1,4 @@
+Operating systems functions
+
+Memory Management:
+The operating system is responsible for maneging the memory installed in a computer. The operating system helps to optimize memory usage. Main memory in a computer is fast storage, and so it needs to be manege effectively. 
