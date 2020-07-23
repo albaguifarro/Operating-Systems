@@ -2,3 +2,6 @@ Operating systems functions
 
 Memory Management:
 The operating system is responsible for maneging the memory installed in a computer. The operating system helps to optimize memory usage. Main memory in a computer is fast storage, and so it needs to be manege effectively. 
+
+Processor Management:
+The operating system is responsible for managing the CPU (central processing unit). CPU is an important management task because all commands need to be executed by the CPU. CPU management is especially important when resulving instructions conflicts, and priorities. 
